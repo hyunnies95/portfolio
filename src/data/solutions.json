@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "NFT preview card component",
+    "tags": ["HTML", "CSS"],
+    "image": "assets/images/nft-preview-card-component.jpg",
+    "link": "https://hyunnies95.github.io/nft-preview-card-component/"
+  },
+  {
+    "id": 2,
+    "name": "Easybank landing page",
+    "tags": ["HTML", "CSS", "JS"],
+    "image": "assets/images/easybank-landing-page.jpg",
+    "link": "https://hyunnies95.github.io/easybank-landing-page/"
+  },
+  {
+    "id": 3,
+    "name": "Manage landing page",
+    "tags": ["HTML", "CSS", "JS"],
+    "image": "assets/images/manage-landing-page.jpg",
+    "link": "https://hyunnies95.github.io/manage-landing-page/"
+  },
+  {
+    "id": 4,
+    "name": "Blogr landing page",
+    "tags": ["HTML", "CSS", "JS"],
+    "image": "assets/images/blogr-landing-page.jpg",
+    "link": "https://hyunnies95.github.io/blogr-landing-page/"
+  },
+  {
+    "id": 5,
+    "name": "Sunnyside agency landing page",
+    "tags": ["HTML", "CSS", "JS"],
+    "image": "assets/images/sunnyside-agency-landing-page.jpg",
+    "link": "https://hyunnies95.github.io/sunnyside-agency-landing-page/"
+  },
+  {
+    "id": 6,
+    "name": "GitHub user search app",
+    "tags": ["HTML", "CSS", "JS", "VUE", "API"],
+    "image": "assets/images/github-user-search.jpg",
+    "link": "https://hyunnies95.github.io/github-user-search/"
+  },
+  {
+    "id": 7,
+    "name": "Time tracking dashboard",
+    "tags": ["HTML", "CSS", "JS"],
+    "image": "assets/images/time-tracking-dashboard.jpg",
+    "link": "https://hyunnies95.github.io/time-tracking-dashboard/"
+  },
+  {
+    "id": 8,
+    "name": "Interactive Comments Section",
+    "tags": ["HTML", "CSS", "JS", "VUE"],
+    "image": "assets/images/interactive-comments-section.jpg",
+    "link": "https://hyunnies95.github.io/interactive-comments-section/"
+  },
+  {
+    "id": 9,
+    "name": "Loopstudios landing page",
+    "tags": ["HTML", "CSS", "JS"],
+    "image": "assets/images/loopstudios-landing-page.jpg",
+    "link": "https://hyunnies95.github.io/loopstudios-landing-page/"
+  },
+  {
+    "id": 10,
+    "name": "Minimalist portfolio website",
+    "tags": ["HTML", "CSS", "JS", "VUE"],
+    "image": "assets/images/minimalist-portfolio.jpg",
+    "link": "https://hyunnies95.github.io/minimalist-portfolio-website/"
+  },
+  {
+    "id": 11,
+    "name": "Equalizer landing page",
+    "tags": ["HTML", "CSS", "JS", "VUE"],
+    "image": "assets/images/equalizer-landing-page.jpg",
+    "link": "https://hyunnies95.github.io/equalizer-landing-page/"
+  },
+  {
+    "id": 12,
+    "name": "Art gallery website",
+    "tags": ["HTML", "CSS", "JS", "VUE"],
+    "image": "assets/images/art-gallery-website.jpg",
+    "link": "https://hyunnies95.github.io/art-gallery-website/"
+  },
+  {
+    "id": 13,
+    "name": "Photosnap multi-page website",
+    "tags": ["HTML", "CSS", "JS", "VUE"],
+    "image": "assets/images/photosnap-multipage-website.jpg",
+    "link": "https://hyunnies95.github.io/photosnap-multipage-website/"
+  }
+]
